@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks-790ab9f7-3d2f-11ec-ab97-9822ef08d697.jpg</filename>
+	<path>C:\Users\user\Hand-Sign_detection\Tensorflow\workspace\images\collectedimages\thanks-790ab9f7-3d2f-11ec-ab97-9822ef08d697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>118</ymin>
+			<xmax>588</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

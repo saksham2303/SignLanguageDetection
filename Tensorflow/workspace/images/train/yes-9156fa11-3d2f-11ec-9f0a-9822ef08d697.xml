@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes-9156fa11-3d2f-11ec-9f0a-9822ef08d697.jpg</filename>
+	<path>C:\Users\user\Hand-Sign_detection\Tensorflow\workspace\images\collectedimages\yes-9156fa11-3d2f-11ec-9f0a-9822ef08d697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>209</ymin>
+			<xmax>530</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>
